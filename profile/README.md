@@ -19,7 +19,7 @@ Welcome to LuwiAI! We are dedicated to leveraging open-source artificial intelli
 
 ## Get Involved
 - Explore our repositories: for while we are going to develop the models!
-- Contribute: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Contribute: [CONTRIBUTING.md](../CONTRIBUTING.md)
 - Support us by spreading the word!
 
 ---
